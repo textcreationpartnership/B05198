@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for visitation of universities, colledges and schools. At Edinburgh, the fourth day of July, one thousand six hundred and ninety years.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05198</idno>
+            <idno type="STC">Wing S1110</idno>
+            <idno type="STC">ESTC R183913</idno>
+            <idno type="EEBO-CITATION">52614928</idno>
+            <idno type="OCLC">ocm 52614928</idno>
+            <idno type="VID">176092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176092)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for visitation of universities, colledges and schools. At Edinburgh, the fourth day of July, one thousand six hundred and ninety years.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Th. Burnet, Cls. Reg.</note>
+                  <note>Act requiring professors and teachers to subscribe to the Confession of Faith.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scottish Confession of Faith (1560) --  Early works to 1800.</term>
+               <term>Education --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176092:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <hi>ACT,</hi> For Viſitation of <g ref="char:V">Ʋ</g>niverſities, Colledges and Schools.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi> 
+                  <date>the fourth day of <hi>July,</hi> One thouſand ſix hundred and ninety years.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>UR Soveraign Lord and Lady, the King and Queens Majeſties, and the Three Eſtates of Parliament, Con<g ref="char:EOLhyphen"/>ſidering how neceſſary it is for the Advancement of Religion, and Learning, and for the good of the Church, and Peace of the Kingdom, that the Univerſities, Colledges and Schools be provided, and ſerved with Pious, Able and Qualified Profeſſors, Principals, Regents, Maſters and others bearing Office therein, well affected to Their Majeſties, and the Eſtabliſhed Government of Church and State: Therefore Their Majeſties, with Advice of the ſaids three Eſtates of Parliament, Do Statute, Ordain, and Enact, That from this time forth, no Pro<g ref="char:EOLhyphen"/>feſſors, Principals, Regents, Maſters, or others bearing Office in any Univerſity, Colledge, or School within this Kingdom, be either admitted, or allowed to continue in the exerciſe of their ſaids Functions, but ſuch as do acknowledge and profeſs, and ſhall ſubſcribe to the <hi>Confeſſion of Faith,</hi> Ratified and Approven by this preſent Parliament; and alſo Swear and Subſcribe the Oath of Allegiance to Their Majeſties; and withal ſhall be found to be of a Pious, Loyal, and Peaceable Converſation, and of good and ſufficient Literature, and Abilities for their reſpective Imployments, and ſubmitting to the Government of the Church, now <hi>Settled by Law.</hi> And albeit it be Their Majeſties undoubted Right and Prerogative, to name Viſitors, and cauſe viſit the foreſaid Univerſities, Colledges and Schools: Yet at this time Their Majeſties are pleaſed to Nominat and Appoint, with Advice and Conſent foreſaid, the perſons under-named, <hi>viz.</hi> The Duke of <hi>Hamilton,</hi> Earl of <hi>Argile,</hi> Earl of <hi>Crafurd,</hi> Earl of <hi>Mariſchal,</hi> Earl of <hi>Mortoun,</hi> Earl of <hi>Caſſils,</hi> Earl of <hi>Lothian,</hi> Earl of <hi>Kintore,</hi> Viſcount of <hi>Arbuthnet,</hi> Viſcount of <hi>Stair,</hi> Lord <hi>Raith,</hi> Lord <hi>Elphingſton,</hi> Lord <hi>Cardroſs,</hi> Lord <hi>Carmichael,</hi> Lord <hi>Ruthven,</hi> Maſter of <hi>Burghly,</hi> Maſter of <hi>Stair</hi> Lord Ad<g ref="char:EOLhyphen"/>vocat, Sir <hi>George Campbel</hi> Juſtice Clerk, the Maſter of <hi>Forbes,</hi> Mr. <hi>Alexander Swinton</hi> of <hi>Merſingtoun,</hi> Mr. <hi>David Hume</hi> of <hi>Croſirig,</hi> Mr. <hi>John Hamilton</hi> of <hi>Halleraig,</hi> Senators of the Colledge of Juſtice, Sir <hi>Patrick Hume</hi> of <hi>Polwart,</hi> Sir <hi>John Maxwel</hi> of <hi>Pollock,</hi> Sir <hi>Thomas Burnet</hi> of <hi>Leys,</hi> Sir <hi>Robert Sinclar</hi> of <hi>Stevinſon,</hi> Sir <hi>George Monro</hi> of <hi>Culren,</hi> Mr. <hi>Francis Montgomery</hi> of <hi>Gif<g ref="char:EOLhyphen"/>fins,</hi> Mr. <hi>James Melvil</hi> of <hi>Halhill, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Broddie</hi> of that Ilk, <hi>
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Grant</hi> of that Ilk, <hi>
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Dumbar</hi> of <hi>Grange,</hi> Mr. <hi>Robert Lermonth</hi> of <hi>Balcomey, Peter Hay</hi> of <hi>Naughtoun</hi> elder, <hi>
+                  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Cunninghame</hi> of <hi>Craigens, John Dempster</hi> of <hi>Pitli<g ref="char:EOLhyphen"/>ver, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>Drummond</hi> of <hi>Meggins, George Moncrief</hi> of <hi>Ready</hi> elder, Sir <hi>John Hall</hi> of <hi>Dunglaſs,</hi> Sir <hi>William Hamilton, Alex<g ref="char:EOLhyphen"/>ander Spittle</hi> of <hi>Lowchat, John Anderſon</hi> of <hi>Dowhill,</hi> Mr. <hi>James Smellet,</hi> Mr. <hi>James Rymer</hi> Miniſter, Mr. <hi>VVilliam Tullidaff,</hi> Mr. <hi>Gabriel Cunninghame,</hi> Mr. <hi>Edward Jamiſon,</hi> Mr. <hi>Alexander Pitcairn,</hi> Mr. <hi>Hugh Anderſon,</hi> Mr. <hi>Gilbert Ruel,</hi> Mr. <hi>Hugh Kennedy,</hi> Mr. <hi>John Law,</hi> Mr. <hi>James Kirktoun,</hi> Mr. <hi>David Blair,</hi> Mr. <hi>George Campbel,</hi> Mr. <hi>George Meldrum,</hi> Mr. <hi>Alexander Forbes,</hi> Mr. <hi>VVilliam Vilant,</hi> Mr. <hi>VVilliam Mitchel,</hi> Mr. <hi>Robert VVillie,</hi> Mr. <hi>James M<hi rend="sup">c</hi>gill,</hi> Mr. <hi>Henry Rymer,</hi> and Mr. <hi>John Oliphant,</hi> to be Viſi<g ref="char:EOLhyphen"/>tors, to the effect under written, <hi>viz.</hi> With full Power and Commiſſion to them, or major part of them hereby Declared to be their <hi>quorum,</hi> to meet, and viſit all Univerſities, Colledges and Schools within this Kingdom, and to take tryal of the pre<g ref="char:EOLhyphen"/>ſent Profeſſors, Principals, Regents, Maſters and others bearing Office therein, according to the Qualifications and Rules a<g ref="char:EOLhyphen"/>bove-mentioned, and ſuch as ſhall be found to be Erroneous, Scandalous, Negligent. Inſufficient, or Diſaffected to Their Majeſties Government, or who ſhall not ſubſcribe the <hi>Confeſſion of Faith,</hi> ſwear and ſubſcribe the Oath of Allegiance, and ſub<g ref="char:EOLhyphen"/>mit to the Government of the Church, now <hi>ſettled by Law,</hi> to purge out, and remove: As alſo to conſider the Foundations of the ſaids Univerſities, Colledges and Schools, with the Rents and Revenues thereof, and how the ſame have been Admini<g ref="char:EOLhyphen"/>ſired and managed, and to ſet down ſuch Rules and methods, for the good management thereof, for hereafter. As likewiſe, for Ordering the ſaids Univerſities, Colledges and Schools, and the Profeſſions and manner of Teaching therein, and all things elſe relating thereto, as they ſhall think moſt meet and convenient, according to the Foundations thereof, and conſiſtent with the preſent Eſtabliſhed Government of Church and State; And to the effect that theſe Preſents may be the more ſurely Exe<g ref="char:EOLhyphen"/>cute, Their Majeſties with Advice foreſaid, Do further Impower the foreſaids perſons Viſitors, or their <hi>quorum,</hi> to appoint Committees of ſuch numbers of their own Members as they ſhall think fit to viſit the ſeveral Univerſities, and Colledges within the Kingdom, with the Schools within the bounds, to be deſigned to them, and that according to ſuch Inſtructions and In<g ref="char:EOLhyphen"/>junctions, as they ſhall think fit to give them; And to the effect, that upon Report, made by the ſaid Committee, to the a<g ref="char:EOLhyphen"/>foreſaid Viſitors, or their <hi>quorum,</hi> they may proceed and conclude thereupon, as they ſhall ſee cauſe: And Their Majeſties Appoints the aforeſaid Viſitors to meet at <hi>Edinburgh</hi> upon the twenty third day of <hi>July</hi> inſtant, for the firſt dyet of their meet<g ref="char:EOLhyphen"/>ing, with power to them to Adjourn and Appoint their own Meetings, to ſuch dayes and places, as for thereafter they ſhall judge convenient; And this Commiſſion to endure ay and while Their Majeſties Recall, and Diſcharge the ſame. Extracted forth of the Records of Parliament, by me</p>
+            <closer>
+               <signed>TH. BURNET, <hi>Cls. Reg.</hi>
+               </signed>
+               <lb/>
+God Save King William and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno Dom.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
